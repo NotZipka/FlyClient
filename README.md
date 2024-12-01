@@ -1,2 +1,1 @@
-# DDNet Fly Client
-## Download: https://workupload.com/file/ZTLd58hMXLK
+![GitHub Last Commit](https://img.shields.io/github/last-commit/NotZipka/FlyClient)
